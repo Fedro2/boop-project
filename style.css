@@ -1,0 +1,953 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FBEDD1;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+main {
+    min-height: 100%;
+    overflow: auto;
+    margin:0;
+    padding: 0;
+    
+}
+
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: .01px;
+    width: 100%;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+nav div {
+    display: flex;
+    gap: 50px;
+   
+    margin-top: 20px;
+    align-items: center;
+    font-size: larger;
+}
+
+nav .margin {
+    margin-left: 150px;
+}
+
+nav .login {
+    margin-right: 100px;
+    align-self: center;
+    background-color: white;
+    padding: 10px 20px; 
+    border-radius: 30px; 
+    text-align: center; 
+    cursor: pointer;
+    height: 25px; 
+    width: 150px;
+    display: inline-block;
+    border: 2px solid #000;
+}
+nav .logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 38px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+nav a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#000;
+    text-decoration: none;
+}
+
+
+.book-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 75px;
+}
+
+
+
+.search-bar input[type="text"]{
+    display: flex;
+    justify-content: center;
+    margin: 45px 10px 0px 5px;
+    width: 300px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+}
+
+.search-bar input[type="submit"] {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    margin-right: 5px;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    background-color: #bfbdbd;
+    
+}
+
+.save-button input[type="submit"] {
+    font-family: 'Roboto', sans-serif;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    background-color: #bfbdbd;
+    cursor: pointer;
+    margin-top: 20px;
+    
+}
+
+.search-bar input:hover {
+    background-color: #bdbdbd;
+}
+
+.search-bar select {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    margin-right: 5px;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+}
+
+.search-bar select:hover {
+    background-color: #bdbdbd;
+}
+.search-bar form {
+    display: flex;
+    
+}
+
+.hamburger img{
+    width: 50px;
+    margin: 50px 10px 0px 10px;
+    transition: all 0.01s ease-in-out;
+}
+
+.hamburger:hover img{
+    width: 51px;
+}
+
+
+
+.header-main .allbooks{
+    margin: 50px 10px 0px 75px;
+    width: 25%;
+}
+.header-main {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 0px 5px 25px 15px;
+}
+
+
+
+
+
+
+#dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.header-main .hamburger:hover .dropdown {
+    display: block;
+    
+    
+}
+
+
+
+.book-box {
+    flex-basis: auto; 
+    width: 200px;
+    margin: 10px; 
+    box-sizing: border-box;
+    border: 1px solid #000;
+    padding: 10px;
+    height: 300px; 
+    border-radius: 30px; 
+    overflow: hidden; 
+    background-image: url('../pics/bookcover.png');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+.book-box-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 7px;;
+    background-color: white;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+.no-result {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 250px;
+    font-size: 20px;
+}
+
+.about-container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-img, .team-img{
+    width: 25%; 
+    height: auto;
+}
+
+.icon-img {
+    width: 25%;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+
+
+.about-text{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px 400px;
+    font-size: 20px;
+}
+
+
+footer {
+    background-color: #201C30;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    bottom: 0;
+    position: relative;
+    margin-top: 50px;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+    margin-top: 30px;
+}
+
+.left, .center, .right {
+    font-family: 'Roboto', sans-serif;
+    flex: 1;
+}
+
+.impressum {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px 400px;
+    font-size: 20px;
+
+}
+
+
+
+.center{
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px
+}
+.center a {
+    text-decoration: underline;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 10px;
+    
+}
+
+.right a {
+    margin-left: 10px;
+}
+
+.right img {
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+
+
+  .pagination {
+    text-align: center;
+    margin: 20px 0;
+    
+}
+
+.page-link {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #000;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.page-link:hover {
+    background-color: #ddd;
+}
+
+.current-page {
+    background-color: #aaa;
+}
+
+
+
+.bookcover-details {
+    width: 400px;
+    height: 600px;
+    margin: 100px 25px 0px 150px;
+    object-fit: cover;
+}
+
+.book-details-container {
+    display: flex;
+    
+}
+
+.book-details {
+    margin-left: 50px;
+    margin-top: 100px;
+    word-wrap: break-word;
+}
+
+.books-main {
+    background-color: white;
+    border-radius: 30px;
+    border: #000 2px solid;
+    width: 500px;
+    overflow: hidden;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.book-second{
+    background-color: white;
+    border-radius: 30px;
+    border: #000 2px solid;
+    width: 500px;
+    overflow: hidden;
+    justify-content: center;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.goback{
+    font-family: 'Roboto', sans-serif;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    background-color: #bfbdbd;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    margin-left: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+.coming-soon {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px 400px;
+    font-size: 150px;
+    
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.add-customer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+.add-customer-content {
+    width: 250px;
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: white;
+    flex-direction: column;
+}
+
+.add-customer-content form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.add-customer-content input[type="email"],
+.add-customer-content input[type="password"], .add-customer-content input[type="submit"], .add-customer-content input[type="text"], .add-customer-content input[type="date"], .add-customer-content button[type="button"] .add-customer-content input [type="number"]{
+    display: flex;
+    justify-content: center;
+    margin: 5px 10px 0px 5px;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+}
+
+.add-customer-content select {
+    display: flex;
+    justify-content: center;
+    margin: 5px 10px 0px 5px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    text-indent: 10px;
+    background-color: #f1f1f1;
+}
+
+
+
+.add-customer-container label {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    line-height: 40px;
+
+}
+.add-customer-content input:hover {
+    background-color: #bcbcbc;
+}
+
+.login-content {
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: white;
+    flex-direction: column;
+}
+
+.login-content form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.login-content input[type="email"],
+.login-content input[type="password"], .login-content input[type="submit"], .login-content input[type="text"], .login-content button[type="button"] {
+    display: flex;
+    justify-content: center;
+    margin: 20px 10px 0px 5px;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+    order: 2;
+}
+
+.login-content .logpic {
+    width: 50%;
+    margin-top: 15px;
+   
+}
+
+.login-content .regpic {
+    width: 90%;
+}
+
+.login-content .change {
+    width: 75%;
+   
+}
+
+.login-content input:hover {
+    background-color: #bcbcbc;
+}
+
+.login-content button[type="button"] {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    line-height: 40px;
+}
+
+.feedback-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+.feedback {
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: white;
+    flex-direction: column;
+}
+
+.feedback form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.feedback img {
+    width: 75%;
+    order: -1;
+}
+
+.feedback input[type="email"],
+.feedback textarea, .feedback input[type="submit"]{
+    display: flex;
+    justify-content: center;
+    margin: 45px 10px 0px 5px;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+    order: 2;
+}
+
+.feedback input:hover {
+    background-color: #b4a0a0;
+}
+
+
+.admin img{
+    width: 30px;
+    margin-right: 10px;
+}
+
+
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 15px; 
+    margin-top: 7px;
+    
+}
+
+
+
+.dropdown a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {
+    background-color: #f1f1f1;
+    border-radius: 15px; 
+    border: 2px solid #000;
+}
+.login:hover .dropdown {
+    display: block;
+}
+
+.register {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#929292;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.adcheck {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#000;
+    text-decoration: none;
+}
+
+main .left {
+    float: left;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+main .right {
+    float: right;
+    margin-left: 150px;
+    
+}
+
+.button-current {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#000;
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #fedda7;
+    position: absolute;
+    line-height: 40px;
+
+}
+.button-other { 
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#000;
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    position: absolute;
+    line-height: 40px;
+}
+
+
+.button-other:hover {
+    border: 1px solid #000;
+}
+.button-current:hover {
+    border: 1px solid #000;
+}
+
+.up-first {
+    margin-top: 80px;
+
+}
+.down {
+    margin-top: 50px;
+}
+#second {
+    margin-top: 70px;
+
+}
+
+.down .down-down {
+    margin-top: 30px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(18, 1fr);
+    gap: 10px;
+}
+
+.book-column {
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    display: flex;
+}
+
+.customer-grid {
+    display: grid;
+    flex-direction: column;
+    width: 70%;
+    gap: 10px;
+    margin-left: 300px;
+    margin-top: 75px;
+    margin-right: 75px;
+   
+}
+
+.customer-column {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    border: #000 1px solid;
+    
+}
+
+.customer-column p {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color:#000;
+    text-decoration: none;
+    display: inline;
+    margin-top: 2.5px;
+    
+}
+
+.customer-column .kid {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color:#000;
+    text-decoration: none;
+}
+
+.customer-column .emailcus {
+    text-decoration: underline;
+    text-decoration-color: #201C30;
+}
+
+
+.customer-column img {
+    width: 30px;
+    float: right;
+}
+
+.add {
+    width: 50px;
+    height: auto;
+    margin-left: 150px;
+    position: fixed;
+    top: 26%;
+    
+}
+
+.add-second {
+    margin-top: 70px; /* Adjust as needed */
+}
+
+.add-second-user {
+    margin-top: 7px;
+}
+
+
+
+.customer-column .edit img {
+    width: 35px;
+    
+}
+
+.customer-column .delete {
+    margin-right: 25px;
+}
+
+.customer-column .delete:hover {
+    cursor: pointer;
+}
+
+.customer-column .edit {
+    margin-right: 25px;
+    margin-top: 2.5px;
+} 
+
+
+.hover-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 15px; 
+    margin-top: 85px;
+    width: 350px;
+    height: 50px;
+    border:#000 1px solid;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.catalogdrop {
+    margin-top: 0px;
+
+}
+
+.hover-dropdown label{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    
+   
+}
+
+.hover-dropdown select {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid #000000;
+    
+}
+
+.hover-dropdown input[type="submit"] {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: #000 1px solid;
+    color: #000;
+    cursor: pointer;
+    
+}
+
+.hover-dropdown input[type="submit"]:hover {
+    background-color: #b3b3b3;
+}
+
+.hover-dropdown-container:hover .hover-dropdown {
+    display: block;
+}
+
+.hover-image {
+    position: relative;
+    display: flex;
+}
+
+.hover-image .search-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    margin-top: 150px;
+    
+}
+
+.hover-image:hover .search-bar {
+    opacity: 1;
+
+}
+
+.hover-image input[type="search"]{
+    display: flex;
+    justify-content: center;
+    margin: 5px 10px 0px 5px;
+    width: 180px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+}
+
+.hover-image button[type="submit"]{
+    display: flex;
+    justify-content: center;
+    margin: 5px 10px 0px 5px;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    border: 2px solid #000;
+    text-indent: 10px;
+}
+.lupead{
+    margin-top: 130px;
+} 
+
+.search-container {
+    display: flex;
+    justify-content: space-between;
+    width: 250px; /* Adjust as needed */
+}
+
+
+.admin-content {
+    flex: 1;
+    overflow-y: auto;
+}
+

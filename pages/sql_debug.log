@@ -1,0 +1,1508 @@
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%12%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%hu%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%hua%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%hua%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 72, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 108, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 3240, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 18, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 3240, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 3240, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 3240, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 810, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand = :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"G"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 72, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 72, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 108, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 144, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY autor ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kaufer DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%",":filter":"%autor%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%",":filter":"%autor%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%autor%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE title LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE title LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE title LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE title LIKE :search AND autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Rui%",":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :filter ORDER BY id LIMIT 0, 18
+Bound Parameters: {":filter":"%title%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%anis%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%G%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%s%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%s%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%m%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle DESC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle DESC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle DESC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%s%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 18, 18
+Bound Parameters: {":search":"%s%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%a%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: {":search":"%pedro%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kaufer DESC LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY kaufer ASC LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor ASC LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: {":search":"%S%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%aasdasd%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 3240, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE zustand LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%asdfghj%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 36, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 72, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 108, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%kai%"}
+SQL Query: SELECT * FROM buecher WHERE autor LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%kai%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%ru%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 72, 18
+Bound Parameters: {":search":"%ru%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY autor DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle DESC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%rui%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY autor ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY kurztitle ASC LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Pedro%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Pedro%"}
+SQL Query: SELECT * FROM buecher WHERE kurztitle LIKE :search ORDER BY id LIMIT 0, 18
+Bound Parameters: {":search":"%Pedro%"}
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
+SQL Query: SELECT * FROM buecher ORDER BY id LIMIT 0, 18
+Bound Parameters: []
