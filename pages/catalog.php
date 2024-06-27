@@ -146,7 +146,7 @@ $books = $stmt->fetchAll(PDO::FETCH_ASSOC);
             <a href="catalog.php">CATALOG</a>
             <a href="about.php">ABOUT</a>
         </div>
-        <a class="logo" href="../home.php">BOOP</a>
+        <a class="logo" href="../index.php">BOOP</a>
     
     <div class="admin-login">
         <?php if (isset($_SESSION["username"])): ?>
