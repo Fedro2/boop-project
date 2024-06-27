@@ -95,21 +95,21 @@ $pages = ceil($total / $perPage);
 <body>
 <main>
 <nav>
-    <div class="margin">
-        <a href="catalog.php">CATALOG</a>
-        <a href="about.php">ABOUT</a>
-    </div>
-    <a class="logo" href="../home.php">BOOP</a>
-
+        <div class="margin">
+            <a href="catalog.php">CATALOG</a>
+            <a href="about.php">ABOUT</a>
+        </div>
+        <a class="logo" href="../index.php">BOOP</a>
+    
     <div class="admin-login">
         <?php if (isset($_SESSION["username"])): ?>
             <?php if ($_SESSION["admin"] == 1): ?>
-                <a href="admin.php">
-                    <div class="admin">
-                        <img src="../pics/admin.png" alt="admin">
-                    </div>
-                </a>
-            <?php endif; ?>
+            <a href="admin.php">
+                <div class="admin">
+                    <img src="../pics/admin.png" alt="admin">
+                </div>
+            </a>
+        <?php endif; ?>
             <div class="login">
                 <a class="user" href="#"><?= $_SESSION["name"] . " " ?> <?= $_SESSION["surname"]?></a>
                 <div class="dropdown">
@@ -123,7 +123,7 @@ $pages = ceil($total / $perPage);
             </div>
         <?php endif; ?>
     </div>
-</nav>
+    </nav>
 
 <main>  
     <div class="admin-content">
