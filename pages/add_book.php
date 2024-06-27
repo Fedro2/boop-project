@@ -82,7 +82,7 @@ $kategorien = $kategorienStmt->fetchAll();
             <a href="catalog.php">CATALOG</a>
             <a href="about.php">ABOUT</a>
         </div>
-        <a class="logo" href="../index.php">BOOP</a>
+        <a class="logo" href="../index.html">BOOP</a>
     
     <div class="admin-login">
         <?php if (isset($_SESSION["username"])): ?>
