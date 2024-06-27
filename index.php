@@ -24,7 +24,7 @@ error_reporting(E_ALL);
             <a href="pages/catalog.php">CATALOG</a>
             <a href="pages/about.php">ABOUT</a>
         </div>
-        <a class="logo" href="home.php">BOOP</a>
+        <a class="logo" href="index.php">BOOP</a>
     
     <div class="admin-login">
         <?php if (isset($_SESSION["username"])): ?>
