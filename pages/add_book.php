@@ -82,18 +82,17 @@ $kategorien = $kategorienStmt->fetchAll();
             <a href="catalog.php">CATALOG</a>
             <a href="about.php">ABOUT</a>
         </div>
-        <a class="logo" href="../home.php">BOOP</a>
- <!-- wenn der user eingeloggt ist, wird der name des users angezeigt und man kann durch hovern sich ausloggen oder passwort ändern, wenn nicht, wird der user auf die login seite geleitet -->
+        <a class="logo" href="../index.php">BOOP</a>
+    
     <div class="admin-login">
         <?php if (isset($_SESSION["username"])): ?>
             <?php if ($_SESSION["admin"] == 1): ?>
-            <a href="admin_books.php">
+            <a href="admin.php">
                 <div class="admin">
                     <img src="../pics/admin.png" alt="admin">
                 </div>
             </a>
         <?php endif; ?>
-        
             <div class="login">
                 <a class="user" href="#"><?= $_SESSION["name"] . " " ?> <?= $_SESSION["surname"]?></a>
                 <div class="dropdown">
